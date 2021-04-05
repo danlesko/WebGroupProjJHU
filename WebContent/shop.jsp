@@ -5,12 +5,12 @@
 <head>
 <meta charset="UTF-8">
 <title>Shop</title>
-<<link rel="stylesheet" href="style/css/style.css" type="text/css">
+<<link rel="stylesheet" href="style/style.css" type="text/css">
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"  %>
 </head>
 <body>
   <nav>
-     <c:import url="/navbar.html"/>
+     <%-- <c:import url="/navbar.html"/> --%>
     </nav>
    <div class="container">
      <h1 class="page-header">ART WORKS <small> FOR SALE</small> </h1>
